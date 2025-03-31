@@ -62,10 +62,24 @@ Este proyecto es una solución completa (frontend y backend) para gestionar el e
 ✅ Tabla de reportes y gráficos interactivos.  
 
 ---
+### 📊 **Base de Datos**  
+
+
+![image](https://github.com/user-attachments/assets/82cedc5c-f435-4ea7-888c-afae48f3f2de)
+
 
 ## 🛠 **Instrucciones para Instalación y Ejecución**  
 
 ### 📌 **Clonar el Repositorio**  
+
 ```bash
-git clone https://github.com/tuusuario/backend-logistica.git
-git clone https://github.com/tuusuario/frontend-logistica.git
+Ejecucion de los proyectos 
+
+npm start 
+
+```bash
+git clone https://github.com/jnivia97/app-coordinadora/.git
+git clone https://github.com/jnivia97/frontend-coordinadora/.git
+
+
+
