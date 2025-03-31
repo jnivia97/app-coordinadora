@@ -69,7 +69,9 @@ Este proyecto es una solución completa (frontend y backend) para gestionar el e
 
 ## 📊 **Elevator pitch**  
 
-https://youtu.be/S42bYmTMGDU
+✅ Aqui encontrara el link para visualizar la explicación del proyecto.
+  
+  https://youtu.be/S42bYmTMGDU
 
 
 ## 🛠 **Instrucciones para Instalación y Ejecución**  
