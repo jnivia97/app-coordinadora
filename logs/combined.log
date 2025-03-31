@@ -1,0 +1,970 @@
+2025-03-29T04:03:25.878Z [INFO]: Login email john@example.com
+2025-03-29T04:03:25.889Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:06:19.214Z [INFO]: Login email john@example.com
+2025-03-29T04:06:19.225Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:08:10.109Z [INFO]: Login email john@example.com
+2025-03-29T04:08:10.124Z [INFO]: Verificaciion de info de usuario john@example.com
+2025-03-29T04:08:10.129Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:09:46.129Z [INFO]: Login email john@example.com
+2025-03-29T04:09:46.140Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:09:46.145Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:10:32.342Z [INFO]: Login email john@example.com
+2025-03-29T04:10:32.349Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:10:32.352Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:10:32.410Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:17:53.676Z [INFO]: Login email john@example.com
+2025-03-29T04:17:53.685Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:17:53.686Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:17:53.738Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:19:10.322Z [INFO]: Login email john@example.com
+2025-03-29T04:19:10.329Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:19:10.330Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:19:10.400Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:21:23.987Z [INFO]: Login email john@example.com
+2025-03-29T04:21:23.995Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:21:23.997Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:21:24.088Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:37:46.133Z [INFO]: Login email john@example.com
+2025-03-29T04:37:46.141Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:37:46.143Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:37:46.230Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:39:50.523Z [INFO]: Login email john@example.com
+2025-03-29T04:39:50.530Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:39:50.532Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:39:50.619Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:39:51.093Z [INFO]: Info BD 
+2025-03-29T04:40:06.249Z [INFO]: Login email john@example.com
+2025-03-29T04:40:06.257Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:40:06.258Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:40:06.330Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:40:06.812Z [INFO]: Info BD 0
+2025-03-29T04:40:51.140Z [INFO]: Login email john@example.com
+2025-03-29T04:40:51.145Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:40:51.147Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:40:51.211Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:40:51.755Z [INFO]: Info BD 0
+2025-03-29T04:45:33.735Z [INFO]: Login email john@example.com
+2025-03-29T04:45:33.742Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:45:33.743Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:45:33.806Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:45:34.380Z [INFO]: Info BD 0
+2025-03-29T04:46:16.207Z [INFO]: Login email john@example.com
+2025-03-29T04:46:16.214Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:46:16.216Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:46:16.274Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:47:27.485Z [INFO]: Login email john@example.com
+2025-03-29T04:47:27.490Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:47:27.492Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:47:27.566Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:49:00.013Z [INFO]: Login email john@example.com
+2025-03-29T04:49:00.024Z [INFO]: Verificacion de info de usuario john@example.com
+2025-03-29T04:49:00.026Z [INFO]: Consultar BD info de usuario john@example.com
+2025-03-29T04:49:00.101Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:51:01.865Z [INFO]: Login email juan@example.com
+2025-03-29T04:51:01.868Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:51:01.869Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:51:01.908Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:51:02.391Z [INFO]: Info BD 1
+2025-03-29T04:54:57.179Z [INFO]: Login email juan@example.com
+2025-03-29T04:54:57.190Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:54:57.193Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:54:57.275Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:57:44.160Z [INFO]: Login email juan@example.com
+2025-03-29T04:57:44.165Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:57:44.179Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:57:44.273Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:57:44.774Z [INFO]: info consulta que este: [object Object]
+2025-03-29T04:58:10.095Z [INFO]: Login email juan@example.com
+2025-03-29T04:58:10.102Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:58:10.113Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:58:10.170Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:58:10.640Z [INFO]: info consulta que este: [object Object]
+2025-03-29T04:58:40.379Z [INFO]: Login email juan@example.com
+2025-03-29T04:58:40.388Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:58:40.390Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:58:40.464Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:58:40.993Z [INFO]: info consulta que este: Juan Pérez
+2025-03-29T04:59:45.091Z [INFO]: Login email juan@example.com
+2025-03-29T04:59:45.099Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T04:59:45.101Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T04:59:45.321Z [INFO]: UserService - Informacion de Usuario : undefined
+2025-03-29T04:59:45.331Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:59:45.832Z [INFO]: info consulta que este: Juan Pérez
+2025-03-29T05:00:16.620Z [INFO]: Login email juan@example.com
+2025-03-29T05:00:16.635Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T05:00:16.637Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:00:18.252Z [INFO]: info consulta que este: Juan Pérez
+2025-03-29T05:00:18.253Z [INFO]: UserService - Informacion de Usuario : undefined
+2025-03-29T05:00:18.256Z [ERROR]: Contraseña incorrecta
+2025-03-29T05:00:18.267Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMyMjQ0MTgsImV4cCI6MTc0MzIyODAxOH0.TASaqNpVkv4wLvjms1cjZAOxtzIHD8jBPBlCqwmL97Q
+2025-03-29T05:04:27.801Z [INFO]: Login email juan@example.com
+2025-03-29T05:04:27.806Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T05:04:27.807Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:04:28.402Z [INFO]: info consulta que este: Juan Pérez
+2025-03-29T05:04:28.403Z [INFO]: UserService - Informacion de Usuario : undefined
+2025-03-29T05:04:28.411Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMyMjQ2NjgsImV4cCI6MTc0MzIyODI2OH0.K0P_ne7nH3q8R9WxUdCu3d74lkPbIrxkpp6glxPODQI
+2025-03-29T05:05:51.618Z [INFO]: Login email uan@example.com
+2025-03-29T05:05:51.625Z [INFO]: Verificacion de info de usuario uan@example.com
+2025-03-29T05:05:51.627Z [INFO]: Consultar BD info de usuario uan@example.com
+2025-03-29T05:05:52.271Z [ERROR]: No hay Info BD 0
+2025-03-29T05:05:52.273Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:07:21.154Z [INFO]: Login email uan@example.com
+2025-03-29T05:07:21.162Z [INFO]: Verificacion de info de usuario uan@example.com
+2025-03-29T05:07:21.164Z [INFO]: Consultar BD info de usuario uan@example.com
+2025-03-29T05:07:21.745Z [ERROR]: No hay Info BD 0
+2025-03-29T05:07:21.747Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:08:07.769Z [INFO]: Login email uan@example.com
+2025-03-29T05:08:07.779Z [INFO]: Verificacion de info de usuario uan@example.com
+2025-03-29T05:08:07.781Z [INFO]: Consultar BD info de usuario uan@example.com
+2025-03-29T05:08:08.369Z [ERROR]: No hay Info BD 0
+2025-03-29T05:08:08.371Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:08:19.490Z [INFO]: Login email juan@example.com
+2025-03-29T05:08:19.493Z [INFO]: Verificacion de info de usuario juan@example.com
+2025-03-29T05:08:19.496Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:08:19.656Z [INFO]: UserService - Informacion de Usuario : undefined
+2025-03-29T05:08:19.680Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDMyMjQ4OTksImV4cCI6MTc0MzIyODQ5OX0.KU2iQFfpf_vDVjYfoVckueIz9MwHJTtCI9kC1nI-O1E
+2025-03-29T05:10:31.520Z [INFO]: Login email juan@example.com
+2025-03-29T05:10:31.526Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:10:31.528Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:10:32.073Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:10:32.076Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:10:32.078Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:10:32.079Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:13:49.577Z [INFO]: Login email juan@example.com
+2025-03-29T05:13:49.585Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:13:49.586Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:13:50.564Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:13:50.566Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:13:50.568Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:13:50.570Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:13:50.572Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:16:04.277Z [INFO]: Login email juan@example.com
+2025-03-29T05:16:04.289Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:16:04.290Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:16:04.809Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:16:04.810Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:16:04.824Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjUzNjQsImV4cCI6MTc0MzIyODk2NH0.6sdbyaZDgcripWzV_Ht9uH4rWvfB6RV-O1qR1Kz24lo
+2025-03-29T05:16:23.239Z [INFO]: Login email juan@example.com
+2025-03-29T05:16:23.241Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:16:23.242Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:16:23.348Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:16:23.352Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_
+2025-03-29T05:16:23.354Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:16:23.355Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:16:23.357Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:16:29.873Z [INFO]: Login email juan@example.com
+2025-03-29T05:16:29.874Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:16:29.874Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:16:29.985Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:16:29.987Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:16:29.991Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjUzODksImV4cCI6MTc0MzIyODk4OX0.nZhS8e20vmnv0i1tCIyAG3QF8uxC6T5r5iZdaqlQa1U
+2025-03-29T05:18:33.277Z [INFO]: Login email juan@example.com
+2025-03-29T05:18:33.284Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:18:33.284Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:18:33.962Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:18:33.963Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:18:33.970Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU1MTMsImV4cCI6MTc0MzIyOTExM30.ut8wGxlcbwaFkZ_HIyQQlS-ziY0qXMP7kExf7zdLWQs
+2025-03-29T05:18:40.908Z [INFO]: Login email juan@example.com
+2025-03-29T05:18:40.909Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:18:40.910Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:18:41.019Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:18:41.020Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_2
+2025-03-29T05:18:41.021Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:18:41.022Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:18:41.023Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:18:51.122Z [INFO]: Login email juan@example.com
+2025-03-29T05:18:51.123Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:18:51.124Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:18:51.231Z [INFO]: UserService - Información de Usuario: Juan Pérez
+2025-03-29T05:18:51.231Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:18:51.235Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU1MzEsImV4cCI6MTc0MzIyOTEzMX0.XGqVvisunbh2u_idBP-kafJDBKH_peHNkSzljGv5kwk
+2025-03-29T05:20:27.118Z [INFO]: Login email juan@example.com
+2025-03-29T05:20:27.127Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:20:27.129Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:20:27.784Z [INFO]: UserService - Información de Usuario: undefined - Juan Pérez
+2025-03-29T05:20:27.786Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:20:27.797Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU2MjcsImV4cCI6MTc0MzIyOTIyN30.3f6m5EZnO9VXStf00FqhBHURYMIxfu27lwsd47-irdc
+2025-03-29T05:22:31.326Z [INFO]: Login email juan@example.com
+2025-03-29T05:22:31.335Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:22:31.336Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:22:32.070Z [INFO]: id user 1
+2025-03-29T05:22:32.072Z [INFO]: UserService - Información de Usuario: undefined - Juan Pérez
+2025-03-29T05:22:32.073Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:22:32.090Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU3NTIsImV4cCI6MTc0MzIyOTM1Mn0.-0hIP6DD8U2x05lA0j8iPA2UZ-6A0fNQJ2JHSbZml_w
+2025-03-29T05:23:45.826Z [INFO]: Login email juan@example.com
+2025-03-29T05:23:45.832Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:23:45.833Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:23:46.525Z [INFO]: id user 1
+2025-03-29T05:23:46.527Z [INFO]: UserService - Información de Usuario: undefined - Juan Pérez
+2025-03-29T05:23:46.528Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:23:46.537Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU4MjYsImV4cCI6MTc0MzIyOTQyNn0.SSkQdSwuWalowTn4HbmQkCWtTIJ3FfOn4oxvcavkSHs
+2025-03-29T05:24:44.463Z [INFO]: Login email juan@example.com
+2025-03-29T05:24:44.471Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:24:44.473Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:24:45.132Z [INFO]: UserService - Información de Usuario: 1 - Juan Pérez
+2025-03-29T05:24:45.133Z [INFO]: UserService - Información de Usuario password: hashed_password_1 - hashed_password_1
+2025-03-29T05:24:45.145Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjU4ODUsImV4cCI6MTc0MzIyOTQ4NX0.ptY8W_dhDp86IDWS5nHnXSDw7b5IMFEgkB_PYg_g494
+2025-03-29T05:27:04.127Z [INFO]: Login email juan@example.com
+2025-03-29T05:27:04.135Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T05:27:04.137Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T05:27:04.770Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c2VyIjoxLCJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyMjYwMjQsImV4cCI6MTc0MzIyOTYyNH0.YTV1sVSyCAARqQXBe5CpCp1YDwA2xVDjcNb2YbB1OzU
+2025-03-29T07:39:49.772Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:39:49.779Z [INFO]: Creación de la orden
+2025-03-29T07:39:49.782Z [INFO]: Crear nueva orden de 1
+2025-03-29T07:39:51.595Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:39:51.596Z [ERROR]: No es posible crear la orden
+2025-03-29T07:39:51.597Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:39:51.597Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:42:51.504Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:42:51.515Z [INFO]: Creación de la orden Service
+2025-03-29T07:42:51.518Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T07:42:52.650Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:42:52.653Z [ERROR]: No es posible crear la orden
+2025-03-29T07:42:52.656Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:42:52.658Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:44:59.374Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:44:59.387Z [INFO]: Creación de la orden Service
+2025-03-29T07:44:59.390Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T07:45:00.005Z [ERROR]: [ERROR]: Column 'dimensiones' cannot be null
+2025-03-29T07:45:00.008Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:46:04.918Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:46:04.922Z [INFO]: Creación de la orden Service
+2025-03-29T07:46:04.922Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T07:46:05.487Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:46:05.489Z [ERROR]: No es posible crear la orden
+2025-03-29T07:46:05.490Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:46:05.491Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:50:05.992Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:50:05.997Z [INFO]: Creación de la orden Service
+2025-03-29T07:50:05.998Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T07:50:06.561Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:50:06.562Z [ERROR]: No es posible crear la orden
+2025-03-29T07:50:06.566Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:50:06.567Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:53:58.356Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T07:53:58.362Z [INFO]: Creación de la orden Service
+2025-03-29T07:53:58.363Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T07:53:59.019Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:53:59.021Z [ERROR]: No es posible crear la orden
+2025-03-29T07:53:59.022Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:53:59.024Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:02:03.496Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T08:02:03.503Z [INFO]: Creación de la orden Service
+2025-03-29T08:02:03.504Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T08:02:04.170Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T08:02:04.172Z [ERROR]: No es posible crear la orden
+2025-03-29T08:02:04.173Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T08:02:04.174Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:15:32.782Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T08:15:32.785Z [INFO]: Creación de la orden Service
+2025-03-29T08:15:32.785Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T08:15:33.415Z [INFO]: Se creó correctamente la orden
+2025-03-29T08:15:33.416Z [ERROR]: Información de la orden erronea
+2025-03-29T08:15:33.417Z [ERROR]: [ERROR]: dimensiones is not defined
+2025-03-29T08:15:33.418Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:17:15.299Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T08:17:15.303Z [INFO]: Creación de la orden Service
+2025-03-29T08:17:15.304Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T08:17:15.937Z [INFO]: Se creó correctamente la orden
+2025-03-29T08:17:15.938Z [ERROR]: [ERROR]: jwtSecret is not defined
+2025-03-29T08:17:15.939Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:18:18.111Z [INFO]: Crear nueva order de 1 y destino calle 142, bogota
+2025-03-29T08:18:18.115Z [INFO]: Creación de la orden Service
+2025-03-29T08:18:18.117Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-29T08:18:18.712Z [INFO]: Se creó correctamente la orden
+2025-03-29T08:18:18.720Z [WARN]: Respuesta BD DeliveryController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmRlbiI6MTIsInVzdWFyaW8iOjEsInBlc28iOjMuNSwiZGltZW5zaW9uZXMiOiI1MHg1MHg1MCIsInRpcG9Qcm9kdWN0byI6IlJvcGEiLCJkaXJlY2Npb25EZXN0aW5vIjoiY2FsbGUgMTQyLCBib2dvdGEiLCJlc3RhZG8iOiJFbiB0csOhbnNpdG8iLCJmZWNoYUNyZWFjaW9uIjoiMjAyNS0wMy0yOSAwODowMDowMCIsImZlY2hhRW50cmVnYSI6IjIwMjUtMDMtMjkgMTQ6MDA6MDAiLCJpYXQiOjE3NDMyMzYyOTgsImV4cCI6MTc0MzIzOTg5OH0.KDHjB7ZR6cRYsNLGMGN3RRQypWxhB0jjyAfgqqmF9Wg
+2025-03-29T15:45:34.453Z [INFO]: Controller Consultar las ordenes creadas
+2025-03-29T15:45:34.459Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T15:45:34.462Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T15:45:35.260Z [WARN]: Respuesta del BD DeveliryController eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkX29yZGVuIjoxLCJpZF91c3VhcmlvIjoxLCJwZXNvIjoiNS41MCIsImRpbWVuc2lvbmVzIjoiMzB4MjB4MTAiLCJ0aXBvX3Byb2R1Y3RvIjoiRWxlY3Ryw7NuaWNhIiwiZGlyZWNjaW9uX2Rlc3Rpbm8iOiJDYWxsZSAxMjMsIEJvZ290w6EiLCJlc3RhZG8iOiJFbiBlc3BlcmEiLCJmZWNoYV9jcmVhY2lvbiI6IjIwMjUtMDMtMjhUMTM6MDA6MDAuMDAwWiIsImZlY2hhX2VudHJlZ2EiOm51bGx9LCJpYXQiOjE3NDMyNjMxMzUsImV4cCI6MTc0MzI2NjczNX0.x8w-v-M8pvah6q4ykDrZvbqvkwmepNEDVxvxbeOO1gM
+2025-03-29T15:46:15.674Z [INFO]: Controller Consultar las ordenes creadas
+2025-03-29T15:46:15.681Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T15:46:15.685Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T15:46:16.387Z [WARN]: Respuesta del BD DeveliryController eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkX29yZGVuIjoxLCJpZF91c3VhcmlvIjoxLCJwZXNvIjoiNS41MCIsImRpbWVuc2lvbmVzIjoiMzB4MjB4MTAiLCJ0aXBvX3Byb2R1Y3RvIjoiRWxlY3Ryw7NuaWNhIiwiZGlyZWNjaW9uX2Rlc3Rpbm8iOiJDYWxsZSAxMjMsIEJvZ290w6EiLCJlc3RhZG8iOiJFbiBlc3BlcmEiLCJmZWNoYV9jcmVhY2lvbiI6IjIwMjUtMDMtMjhUMTM6MDA6MDAuMDAwWiIsImZlY2hhX2VudHJlZ2EiOm51bGx9LCJpYXQiOjE3NDMyNjMxNzYsImV4cCI6MTc0MzI2Njc3Nn0.o9n_GXYi-8QTMdRPzwgNn0WVF154nNwht3D87KIwlcE
+2025-03-29T17:36:33.758Z [INFO]: Login email juan@example.com
+2025-03-29T17:36:33.765Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-29T17:36:33.766Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-29T17:36:34.790Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T17:36:34.792Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T17:36:34.793Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T17:41:53.884Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:43:36.538Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:44:31.331Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:44:31.340Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:44:31.343Z [INFO]: Consultar BD todas la ordenes no han sido asignadas
+2025-03-29T17:44:32.110Z [ERROR]: [ERROR]: jwt is not defined
+2025-03-29T17:46:23.386Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:46:23.390Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:46:23.391Z [INFO]: Consultar BD todas la ordenes no han sido asignadas
+2025-03-29T17:46:23.965Z [ERROR]: [ERROR]: res is not defined
+2025-03-29T17:47:01.335Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:47:01.345Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:47:01.347Z [INFO]: Consultar BD todas la ordenes no han sido asignadas
+2025-03-29T17:48:07.381Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:48:49.886Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:48:49.895Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:48:49.897Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:49:19.163Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:49:19.168Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:49:19.173Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:49:42.599Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:49:42.600Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:49:42.603Z [INFO]: Consultar BD todas la ordenes no han sido asignadas
+2025-03-29T17:51:03.663Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:51:03.664Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:51:03.665Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:53:51.641Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:53:51.647Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:53:51.649Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:53:52.153Z [INFO]: cantidad 4
+2025-03-29T17:55:27.955Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:55:27.963Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:55:27.964Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:55:28.630Z [INFO]: cantidad undefined
+2025-03-29T17:56:01.330Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:56:01.341Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:56:01.343Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T17:56:01.946Z [INFO]: cantidad undefined
+2025-03-29T17:58:39.092Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:58:39.100Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T17:58:39.107Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T18:02:39.486Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:02:39.491Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:02:39.492Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T18:03:26.492Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:03:26.494Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:03:26.496Z [INFO]: Consultar BD todas la ordenes no han sido asignadas
+2025-03-29T18:31:28.052Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:31:28.068Z [INFO]: Consultar todas la ordenes Service
+2025-03-29T18:31:28.071Z [INFO]: Consultar BD todas la ordenes
+2025-03-29T19:17:42.671Z [INFO]: Consultar todas la rutas controller
+2025-03-29T19:17:42.679Z [INFO]: Consultar todas la rutas Service
+2025-03-29T19:17:42.680Z [INFO]: Consultar BD las rutas
+2025-03-30T21:55:06.163Z [INFO]: Consultar todos los transportadores libres
+2025-03-30T21:55:06.168Z [INFO]: Verificar los transportadores free
+2025-03-30T21:55:06.194Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-30T21:55:06.889Z [ERROR]: [ERROR]: User is not defined
+2025-03-30T21:55:39.571Z [INFO]: Consultar todos los transportadores libres
+2025-03-30T21:55:39.581Z [INFO]: Verificar los transportadores free
+2025-03-30T21:55:39.583Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-30T21:55:40.394Z [ERROR]: [ERROR]: allOrder is not defined
+2025-03-30T21:56:26.117Z [INFO]: Consultar todos los transportadores libres
+2025-03-30T21:56:26.126Z [INFO]: Verificar los transportadores free
+2025-03-30T21:56:26.128Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-30T22:01:12.613Z [INFO]: Consultar todos los transportadores libres
+2025-03-30T22:01:12.623Z [INFO]: Verificar los transportadores free
+2025-03-30T22:01:12.624Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-30T23:35:44.394Z [INFO]: Crear nueva order de 1 y destino calle 1444, bogota
+2025-03-30T23:35:44.438Z [INFO]: Creación de la orden Service
+2025-03-30T23:35:44.441Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-30T23:35:45.313Z [INFO]: Se creó correctamente la orden [object Object]
+2025-03-30T23:35:45.353Z [WARN]: Respuesta BD DeliveryController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmRlbiI6MTMsInVzdWFyaW8iOjEsInBlc28iOjMuNSwiZGltZW5zaW9uZXMiOiI1MHg1MHg1MCIsInRpcG9Qcm9kdWN0byI6IlJvcGEiLCJkaXJlY2Npb25EZXN0aW5vIjoiY2FsbGUgMTQ0NCwgYm9nb3RhIiwiZXN0YWRvIjoiRW4gdHLDoW5zaXRvIiwiZmVjaGFDcmVhY2lvbiI6IjIwMjUtMDMtMjkgMDg6MDA6MDAiLCJmZWNoYUVudHJlZ2EiOiIyMDI1LTAzLTI5IDE0OjAwOjAwIiwiaWF0IjoxNzQzMzc3NzQ1LCJleHAiOjE3NDMzODEzNDV9.ZI9Bm2fnPdWGdng7Tcybv6zfzeMVtTefCTVpeNrC7Eo
+2025-03-30T23:37:40.386Z [INFO]: Crear nueva order de 1 y destino calle 1444, bogota
+2025-03-30T23:37:40.393Z [INFO]: Creación de la orden Service
+2025-03-30T23:37:40.394Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-30T23:37:41.005Z [INFO]: Se creó correctamente la orden {"fieldCount":0,"affectedRows":1,"insertId":14,"info":"","serverStatus":2,"warningStatus":0,"changedRows":0}
+2025-03-30T23:37:41.010Z [WARN]: Respuesta BD DeliveryController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmRlbiI6MTQsInVzdWFyaW8iOjEsInBlc28iOjMuNSwiZGltZW5zaW9uZXMiOiI1MHg1MHg1MCIsInRpcG9Qcm9kdWN0byI6IlJvcGEiLCJkaXJlY2Npb25EZXN0aW5vIjoiY2FsbGUgMTQ0NCwgYm9nb3RhIiwiZXN0YWRvIjoiRW4gdHLDoW5zaXRvIiwiZmVjaGFDcmVhY2lvbiI6IjIwMjUtMDMtMjkgMDg6MDA6MDAiLCJmZWNoYUVudHJlZ2EiOiIyMDI1LTAzLTI5IDE0OjAwOjAwIiwiaWF0IjoxNzQzMzc3ODYxLCJleHAiOjE3NDMzODE0NjF9.Zt8FN26ClCYbXnDtgqx8FlsqmNJ03zESk5V-5mM-08g
+2025-03-31T00:23:31.272Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:23:31.300Z [INFO]: Verificaion de asignamiento
+2025-03-31T00:23:31.302Z [INFO]: Crear nueva asignacion => undefined
+2025-03-31T00:23:31.970Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:23:31.993Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:23:31.995Z [ERROR]: Error de respuesta
+2025-03-31T00:25:16.382Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:25:16.423Z [INFO]: Verificaion de asignamiento
+2025-03-31T00:25:16.437Z [INFO]: Crear nueva asignacion BD => undefined
+2025-03-31T00:25:17.217Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:25:17.223Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:25:17.224Z [ERROR]: Error de respuesta
+2025-03-31T00:40:05.368Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:40:05.374Z [INFO]: Verificaion de asignamiento
+2025-03-31T00:40:05.400Z [INFO]: Crear nueva asignacion BD => undefined
+2025-03-31T00:40:06.038Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:40:06.048Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:40:06.051Z [ERROR]: Error de respuesta
+2025-03-31T00:41:32.035Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:41:32.042Z [INFO]: Verificaion de asignamiento {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:41:32.044Z [INFO]: Crear nueva asignacion BD => undefined
+2025-03-31T00:41:32.578Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:41:32.596Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:41:32.601Z [ERROR]: Error de respuesta
+2025-03-31T00:43:41.192Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:43:41.199Z [INFO]: Verificaion de asignamiento {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:43:41.200Z [INFO]: Crear nueva asignacion BD => {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:43:41.800Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:43:41.819Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:43:41.821Z [ERROR]: Error de respuesta
+2025-03-31T00:44:23.700Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:44:23.705Z [INFO]: Verificaion de asignamiento {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:44:23.706Z [INFO]: Crear nueva asignacion BD => {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:44:24.251Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T00:44:24.259Z [ERROR]: [ERROR] service: Expected "payload" to be a plain object.
+2025-03-31T00:44:24.260Z [ERROR]: Error de respuesta
+2025-03-31T00:46:47.766Z [INFO]: Crear una nueva asignacion para => 1
+2025-03-31T00:46:47.771Z [INFO]: Verificaion de asignamiento {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:46:47.772Z [INFO]: Crear nueva asignacion BD => {"id_orden":1,"id_ruta":1,"id_transportista":1}
+2025-03-31T00:46:48.390Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T01:38:29.515Z [INFO]: Consultar la orden
+2025-03-31T01:38:29.524Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:38:29.525Z [INFO]: Consultar BD la orden
+2025-03-31T01:52:16.744Z [INFO]: Consultar la orden
+2025-03-31T01:52:16.751Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:52:16.752Z [INFO]: Consultar BD la orden usuario
+2025-03-31T01:52:17.450Z [ERROR]: No es posible consultar la información
+2025-03-31T01:53:25.322Z [INFO]: Consultar la orden
+2025-03-31T01:53:25.323Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:53:25.323Z [INFO]: Consultar BD la orden usuario
+2025-03-31T01:53:25.428Z [ERROR]: No es posible consultar la información
+2025-03-31T01:55:29.491Z [INFO]: Consultar la orden
+2025-03-31T01:55:29.496Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:55:29.545Z [INFO]: Consultar BD la orden usuario
+2025-03-31T01:55:30.238Z [INFO]: odernes []
+2025-03-31T01:55:30.241Z [ERROR]: No es posible consultar la información
+2025-03-31T01:56:22.169Z [INFO]: Consultar la orden
+2025-03-31T01:56:22.176Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:56:22.178Z [INFO]: Consultar BD la orden
+2025-03-31T01:56:22.681Z [ERROR]: No es posible consultar la información
+2025-03-31T01:57:06.867Z [INFO]: Consultar la orden
+2025-03-31T01:57:06.872Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:57:06.873Z [INFO]: Consultar BD la orden usuario
+2025-03-31T01:57:07.421Z [INFO]: odernes []
+2025-03-31T01:57:07.422Z [ERROR]: No es posible consultar la información
+2025-03-31T01:57:58.606Z [INFO]: Consultar la orden
+2025-03-31T01:57:58.617Z [INFO]: Consultar la orden por id Service
+2025-03-31T01:57:58.618Z [INFO]: Consultar BD la orden usuario undefined
+2025-03-31T01:57:59.226Z [INFO]: odernes []
+2025-03-31T01:57:59.227Z [ERROR]: No es posible consultar la información
+2025-03-31T01:58:52.128Z [INFO]: Consultar la orden
+2025-03-31T01:58:52.133Z [INFO]: Consultar la orden por id Service undefined
+2025-03-31T01:58:52.134Z [INFO]: Consultar BD la orden usuario undefined
+2025-03-31T01:58:52.661Z [INFO]: odernes []
+2025-03-31T01:58:52.662Z [ERROR]: No es posible consultar la información
+2025-03-31T02:00:16.889Z [INFO]: Consultar la orden usuario undefined
+2025-03-31T02:00:16.897Z [INFO]: Consultar la orden por id Service undefined
+2025-03-31T02:00:16.898Z [INFO]: Consultar BD la orden usuario undefined
+2025-03-31T02:00:17.422Z [INFO]: odernes []
+2025-03-31T02:00:17.424Z [ERROR]: No es posible consultar la información
+2025-03-31T02:00:28.265Z [INFO]: Consultar la orden usuario 2
+2025-03-31T02:00:28.266Z [INFO]: Consultar la orden por id Service 2
+2025-03-31T02:00:28.267Z [INFO]: Consultar BD la orden usuario 2
+2025-03-31T02:00:28.376Z [INFO]: odernes [{"id_orden":2,"id_usuario":2,"peso":"10.00","dimensiones":"40x30x20","tipo_producto":"Ropa","direccion_destino":"Av. Principal 456, Medellín","estado":"En tránsito","fecha_creacion":"2025-03-27T15:30:00.000Z","fecha_entrega":"2025-03-29T19:00:00.000Z"}]
+2025-03-31T03:50:18.980Z [INFO]: Crear un nuevo report para => 1
+2025-03-31T03:50:18.987Z [INFO]: Verificaion de logistica {"id_orden":1,"id_transportista":3,"tiempo_entrega":2.5,"estado_actual":"Entregado"}
+2025-03-31T03:50:19.668Z [INFO]: Se creó correctamente el reporte {"fieldCount":0,"affectedRows":1,"insertId":4,"info":"","serverStatus":2,"warningStatus":0,"changedRows":0}
+2025-03-31T03:50:19.713Z [ERROR]: Información del reporte erronea
+2025-03-31T03:50:19.714Z [ERROR]: [ERROR] service: reporte is not a constructor
+2025-03-31T03:50:19.715Z [ERROR]: Error de respuesta
+2025-03-31T03:51:22.905Z [INFO]: Crear un nuevo report para => 1
+2025-03-31T03:51:22.915Z [INFO]: Verificaion de logistica {"id_orden":1,"id_transportista":3,"tiempo_entrega":2.5,"estado_actual":"Entregado"}
+2025-03-31T03:51:23.541Z [INFO]: Se creó correctamente el reporte {"fieldCount":0,"affectedRows":1,"insertId":5,"info":"","serverStatus":2,"warningStatus":0,"changedRows":0}
+2025-03-31T05:37:32.873Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:38:02.136Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:38:26.508Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:38:26.516Z [INFO]: Consultar la orden por filter Service
+2025-03-31T05:38:26.519Z [INFO]: Consultar BD la orden filtros
+2025-03-31T05:38:27.641Z [ERROR]: No es posible consultar la información
+2025-03-31T05:43:22.030Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:43:22.036Z [INFO]: Consultar la orden por filter Service
+2025-03-31T05:43:22.039Z [INFO]: Consultar BD la orden filtros 1
+2025-03-31T05:43:22.778Z [ERROR]: No es posible consultar la información
+2025-03-31T05:44:17.240Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:44:17.253Z [INFO]: Consultar la orden por filter Service
+2025-03-31T05:44:17.257Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-29 undefined 1
+2025-03-31T05:44:17.952Z [ERROR]: No es posible consultar la información
+2025-03-31T05:45:05.172Z [INFO]: Consultar la orden usuario 1
+2025-03-31T05:45:05.176Z [INFO]: Consultar la orden por filter Service
+2025-03-31T05:45:05.177Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-29 En espera 1
+2025-03-31T06:18:24.461Z [INFO]: Crear un nuevo report 
+2025-03-31T06:18:24.464Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T06:33:24.319Z [INFO]: Crear un nuevo report 
+2025-03-31T06:33:24.325Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T06:35:13.899Z [INFO]: Crear un nuevo report 
+2025-03-31T06:35:13.907Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T14:59:06.687Z [INFO]: Login email juan@example.com
+2025-03-31T14:59:06.691Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-31T14:59:06.695Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-31T14:59:07.367Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-31T14:59:07.369Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-31T14:59:07.370Z [ERROR]: Error de respuesta UserController-login
+2025-03-31T14:59:56.055Z [INFO]: Login email juan@example.com
+2025-03-31T14:59:56.055Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-31T14:59:56.056Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-31T14:59:56.182Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c2VyIjoxLCJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDM0MzMxOTYsImV4cCI6MTc0MzQzNjc5Nn0.uPSdD7X7qTYqUkV3arr1m4BMMGqRpFoik1f_wrJ0opU
+2025-03-31T15:02:44.243Z [INFO]: Login email juan@example.com
+2025-03-31T15:02:44.244Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-31T15:02:44.245Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-31T15:02:44.425Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c2VyIjoxLCJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDM0MzMzNjQsImV4cCI6MTc0MzQzNjk2NH0.7_zHLspUYqOZrx9c6h8DO68QEzcohNcFgeXj3FJjgiU
+2025-03-31T15:14:53.032Z [INFO]: Consultar la orden usuario undefined
+2025-03-31T15:14:53.035Z [INFO]: Consultar la orden por id Service undefined
+2025-03-31T15:14:53.038Z [INFO]: Consultar BD la orden usuario undefined
+2025-03-31T15:14:53.174Z [ERROR]: No es posible consultar la información
+2025-03-31T15:15:55.001Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:15:55.002Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:15:55.002Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:15:57.984Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:15:57.985Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:15:57.985Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:16:49.234Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:16:49.235Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:16:49.236Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:17:29.052Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:17:29.053Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:17:29.098Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:18:22.767Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:18:22.768Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:18:22.769Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:19:02.030Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:19:02.031Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:19:02.031Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:19:49.690Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:19:49.690Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:19:49.749Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:30:23.101Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:30:23.102Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:30:23.111Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:31:30.226Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:31:30.227Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:31:30.227Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:31:40.643Z [INFO]: Crear nueva order de  y destino carrera 123 con 456
+2025-03-31T15:31:40.648Z [INFO]: Creación de la orden Service
+2025-03-31T15:31:40.653Z [INFO]: Crear nueva orden del usuario => 
+2025-03-31T15:31:40.691Z [ERROR]: Información de la orden erronea
+2025-03-31T15:31:40.693Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:31:40.693Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:37:28.654Z [INFO]: Crear nueva order de  y destino carrera 123 con 456
+2025-03-31T15:37:28.657Z [INFO]: Creación de la orden Service
+2025-03-31T15:37:28.846Z [INFO]: Crear nueva orden del usuario => 
+2025-03-31T15:37:28.853Z [ERROR]: Información de la orden erronea
+2025-03-31T15:37:28.857Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:37:28.858Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:42:23.876Z [INFO]: Crear nueva order de 1 y destino cra 456
+2025-03-31T15:42:23.877Z [INFO]: Creación de la orden Service
+2025-03-31T15:42:23.878Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-31T15:42:23.880Z [ERROR]: Información de la orden erronea
+2025-03-31T15:42:23.881Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:42:23.881Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:44:26.383Z [INFO]: Crear nueva order de 1 y destino cra 456
+2025-03-31T15:44:26.384Z [INFO]: Creación de la orden Service
+2025-03-31T15:44:26.385Z [INFO]: Crear nueva orden del usuario => 1
+2025-03-31T15:44:26.386Z [ERROR]: Información de la orden erronea
+2025-03-31T15:44:26.386Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:44:26.387Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:45:07.486Z [INFO]: Crear nueva order de 1 y destino cra 456
+2025-03-31T15:45:07.488Z [INFO]: Creación de la orden Service
+2025-03-31T15:45:07.489Z [INFO]: Crear nueva orden del usuario => {"id_usuario":1,"peso":"2.5","dimensiones":"20x20x25","tipo_producto":"ropa","direccion_destino":"cra 456","estado":"En espera","fecha_creacion":"2025-03-31 15:42:08","fecha_entrega":"2025-03-31 21:45:07"}
+2025-03-31T15:45:07.496Z [ERROR]: Información de la orden erronea
+2025-03-31T15:45:07.498Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:45:07.499Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:50:21.176Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:50:21.177Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:50:21.178Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:50:47.350Z [INFO]: Crear nueva order de 1 y destino cra 456
+2025-03-31T15:50:47.351Z [INFO]: Creación de la orden Service
+2025-03-31T15:50:47.352Z [INFO]: Crear nueva orden del usuario => {"id_usuario":1,"peso":2.5,"dimensiones":"20x20x25","tipo_producto":"ropa","direccion_destino":"cra 456","estado":"En espera","fecha_creacion":"2025-03-31 15:50:20","fecha_entrega":"2025-03-31 21:50:47"}
+2025-03-31T15:50:47.464Z [INFO]: Se creó correctamente la orden {"fieldCount":0,"affectedRows":1,"insertId":15,"info":"","serverStatus":2,"warningStatus":0,"changedRows":0}
+2025-03-31T15:50:47.468Z [WARN]: Respuesta BD DeliveryController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmRlbiI6MTUsInVzdWFyaW8iOjEsInBlc28iOjIuNSwiZGltZW5zaW9uZXMiOiIyMHgyMHgyNSIsInRpcG9Qcm9kdWN0byI6InJvcGEiLCJkaXJlY2Npb25EZXN0aW5vIjoiY3JhIDQ1NiIsImVzdGFkbyI6IkVuIGVzcGVyYSIsImZlY2hhQ3JlYWNpb24iOiIyMDI1LTAzLTMxIDE1OjUwOjIwIiwiZmVjaGFFbnRyZWdhIjoiMjAyNS0wMy0zMSAyMTo1MDo0NyIsImlhdCI6MTc0MzQzNjI0NywiZXhwIjoxNzQzNDM5ODQ3fQ.Tm4Sv_THF0G94LcXZcZ8EMKQN_TLg3ABBnLo5Ags3M8
+2025-03-31T15:54:08.162Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:54:08.162Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:54:08.163Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:56:29.590Z [INFO]: Login email juan@example.com
+2025-03-31T15:56:29.591Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-31T15:56:29.592Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-31T15:56:29.797Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c2VyIjoxLCJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDM0MzY1ODksImV4cCI6MTc0MzQ0MDE4OX0.XQNhQn7Angg8iE6sCGqf9XmFpYR-o0GwIDUXdLEpYII
+2025-03-31T15:57:10.924Z [INFO]: Login email juan@example.com
+2025-03-31T15:57:10.927Z [INFO]: Verificación de info de usuario juan@example.com
+2025-03-31T15:57:10.928Z [INFO]: Consultar BD info de usuario juan@example.com
+2025-03-31T15:57:11.568Z [WARN]: Repuesta BD UserController: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c2VyIjoxLCJlbWFpbCI6Imp1YW5AZXhhbXBsZS5jb20iLCJyb2wiOiJ1c3VhcmlvIiwiaWF0IjoxNzQzNDM2NjMxLCJleHAiOjE3NDM0NDAyMzF9.muU_T73xm8JghgY55XlyzbBrV_la886P9I20tY66SXY
+2025-03-31T15:58:59.029Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:58:59.030Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:58:59.031Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T15:59:41.003Z [INFO]: Consultar la orden usuario 1
+2025-03-31T15:59:41.003Z [INFO]: Consultar la orden por id Service 1
+2025-03-31T15:59:41.005Z [INFO]: Consultar BD la orden usuario 1
+2025-03-31T16:12:52.232Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:12:52.234Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:12:52.236Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:23:06.156Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:23:06.158Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:23:06.160Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:24:15.918Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:24:15.919Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:24:15.920Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:26:31.463Z [INFO]: Consultar todas la rutas controller
+2025-03-31T16:26:31.464Z [INFO]: Consultar todas la rutas Service
+2025-03-31T16:26:31.467Z [INFO]: Consultar BD las rutas
+2025-03-31T16:28:08.719Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T16:28:08.722Z [INFO]: Verificar los transportadores free
+2025-03-31T16:28:08.724Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T16:30:47.069Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:30:47.070Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:30:47.107Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:38:59.047Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:38:59.047Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:38:59.048Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:38:59.160Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T16:38:59.161Z [INFO]: Verificar los transportadores free
+2025-03-31T16:38:59.162Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T16:38:59.323Z [INFO]: Consultar todas la rutas controller
+2025-03-31T16:38:59.323Z [INFO]: Consultar todas la rutas Service
+2025-03-31T16:38:59.324Z [INFO]: Consultar BD las rutas
+2025-03-31T16:52:35.205Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:52:35.208Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:52:35.212Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:52:35.359Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T16:52:35.359Z [INFO]: Verificar los transportadores free
+2025-03-31T16:52:35.360Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T16:52:35.550Z [INFO]: Consultar todas la rutas controller
+2025-03-31T16:52:35.551Z [INFO]: Consultar todas la rutas Service
+2025-03-31T16:52:35.552Z [INFO]: Consultar BD las rutas
+2025-03-31T16:53:01.296Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:53:01.297Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:53:01.298Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:53:01.519Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T16:53:01.520Z [INFO]: Verificar los transportadores free
+2025-03-31T16:53:01.520Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T16:53:01.642Z [INFO]: Consultar todas la rutas controller
+2025-03-31T16:53:01.643Z [INFO]: Consultar todas la rutas Service
+2025-03-31T16:53:01.643Z [INFO]: Consultar BD las rutas
+2025-03-31T16:54:17.206Z [INFO]: Crear una nueva asignacion para => 3
+2025-03-31T16:54:17.208Z [INFO]: Verificaion de asignamiento {"id_orden":"3","id_ruta":"2","id_transportista":"1"}
+2025-03-31T16:54:17.209Z [INFO]: Crear nueva asignacion BD => {"id_orden":"3","id_ruta":"2","id_transportista":"1"}
+2025-03-31T16:54:17.319Z [INFO]: Se creó correctamente la asignacion
+2025-03-31T16:54:19.823Z [INFO]: Consultar todas la ordenes
+2025-03-31T16:54:19.823Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T16:54:19.824Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T16:54:19.948Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T16:54:19.950Z [INFO]: Verificar los transportadores free
+2025-03-31T16:54:19.951Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T16:54:20.061Z [INFO]: Consultar todas la rutas controller
+2025-03-31T16:54:20.061Z [INFO]: Consultar todas la rutas Service
+2025-03-31T16:54:20.062Z [INFO]: Consultar BD las rutas
+2025-03-31T17:01:40.597Z [INFO]: Consultar la orden usuario 1
+2025-03-31T17:01:40.599Z [INFO]: Consultar la orden por filter Service
+2025-03-31T17:01:40.602Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-29 En espera 1
+2025-03-31T17:08:37.095Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:08:37.096Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:08:37.096Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:08:37.233Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:08:37.235Z [INFO]: Verificar los transportadores free
+2025-03-31T17:08:37.236Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:08:37.425Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:08:37.426Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:08:37.427Z [INFO]: Consultar BD las rutas
+2025-03-31T17:41:07.513Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:41:07.517Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:41:07.521Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:41:07.643Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:41:07.644Z [INFO]: Verificar los transportadores free
+2025-03-31T17:41:07.645Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:41:07.792Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:41:07.792Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:41:07.793Z [INFO]: Consultar BD las rutas
+2025-03-31T17:41:43.087Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:41:43.088Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:41:43.088Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:41:43.299Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:41:43.301Z [INFO]: Verificar los transportadores free
+2025-03-31T17:41:43.303Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:41:43.430Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:41:43.431Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:41:43.432Z [INFO]: Consultar BD las rutas
+2025-03-31T17:41:51.842Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:41:51.843Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:41:51.843Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:41:51.964Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:41:51.964Z [INFO]: Verificar los transportadores free
+2025-03-31T17:41:51.965Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:41:52.082Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:41:52.083Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:41:52.083Z [INFO]: Consultar BD las rutas
+2025-03-31T17:42:34.199Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:42:34.200Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:42:34.202Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:42:34.328Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:42:34.330Z [INFO]: Verificar los transportadores free
+2025-03-31T17:42:34.332Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:42:34.479Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:42:34.480Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:42:34.480Z [INFO]: Consultar BD las rutas
+2025-03-31T17:43:03.765Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:43:03.767Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:43:03.767Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:43:03.878Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:43:03.879Z [INFO]: Verificar los transportadores free
+2025-03-31T17:43:03.933Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:43:04.121Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:43:04.122Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:43:04.123Z [INFO]: Consultar BD las rutas
+2025-03-31T17:44:02.477Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:44:02.478Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:44:02.479Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:44:02.611Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:44:02.612Z [INFO]: Verificar los transportadores free
+2025-03-31T17:44:02.612Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:44:02.755Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:44:02.756Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:44:02.756Z [INFO]: Consultar BD las rutas
+2025-03-31T17:44:13.862Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:44:13.863Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:44:13.863Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:44:13.972Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:44:13.973Z [INFO]: Verificar los transportadores free
+2025-03-31T17:44:13.973Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:44:14.081Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:44:14.082Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:44:14.082Z [INFO]: Consultar BD las rutas
+2025-03-31T17:48:17.239Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:48:17.240Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:48:17.241Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:48:17.373Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:48:17.374Z [INFO]: Verificar los transportadores free
+2025-03-31T17:48:17.374Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:48:17.488Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:48:17.489Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:48:17.489Z [INFO]: Consultar BD las rutas
+2025-03-31T17:48:43.271Z [INFO]: Consultar la orden usuario 
+2025-03-31T17:48:43.272Z [INFO]: Consultar la orden por filter Service
+2025-03-31T17:48:43.272Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-31 En espera 1
+2025-03-31T17:48:50.571Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:48:50.572Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:48:50.572Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:48:50.686Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:48:50.686Z [INFO]: Verificar los transportadores free
+2025-03-31T17:48:50.687Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:48:50.808Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:48:50.809Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:48:50.809Z [INFO]: Consultar BD las rutas
+2025-03-31T17:49:38.065Z [INFO]: Consultar la orden usuario 
+2025-03-31T17:49:38.066Z [INFO]: Consultar la orden por filter Service
+2025-03-31T17:49:38.066Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-29 En espera 1
+2025-03-31T17:49:40.412Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:49:40.412Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:49:40.413Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:49:40.557Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:49:40.559Z [INFO]: Verificar los transportadores free
+2025-03-31T17:49:40.560Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:49:40.719Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:49:40.720Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:49:40.722Z [INFO]: Consultar BD las rutas
+2025-03-31T17:50:29.989Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:50:29.989Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:50:29.990Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:50:30.100Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:50:30.100Z [INFO]: Verificar los transportadores free
+2025-03-31T17:50:30.105Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:50:30.233Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:50:30.233Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:50:30.234Z [INFO]: Consultar BD las rutas
+2025-03-31T17:50:45.896Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:50:45.898Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:50:45.899Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:50:46.099Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:50:46.100Z [INFO]: Verificar los transportadores free
+2025-03-31T17:50:46.100Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:50:46.389Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:50:46.390Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:50:46.390Z [INFO]: Consultar BD las rutas
+2025-03-31T17:51:08.080Z [INFO]: Consultar la orden usuario 
+2025-03-31T17:51:08.080Z [INFO]: Consultar la orden por filter Service
+2025-03-31T17:51:08.081Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-31 En espera 1
+2025-03-31T17:52:04.107Z [INFO]: Consultar la orden usuario 1
+2025-03-31T17:52:04.108Z [INFO]: Consultar la orden por filter Service
+2025-03-31T17:52:04.108Z [INFO]: Consultar BD la orden filtros 2025-03-25 2025-03-29 En espera 1
+2025-03-31T17:56:00.818Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:56:00.819Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:56:00.821Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:56:00.994Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:56:00.994Z [INFO]: Verificar los transportadores free
+2025-03-31T17:56:00.995Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:56:01.181Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:56:01.181Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:56:01.182Z [INFO]: Consultar BD las rutas
+2025-03-31T17:56:52.408Z [INFO]: Consultar todas la ordenes
+2025-03-31T17:56:52.408Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T17:56:52.409Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T17:56:52.528Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T17:56:52.528Z [INFO]: Verificar los transportadores free
+2025-03-31T17:56:52.529Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T17:56:52.712Z [INFO]: Consultar todas la rutas controller
+2025-03-31T17:56:52.712Z [INFO]: Consultar todas la rutas Service
+2025-03-31T17:56:52.713Z [INFO]: Consultar BD las rutas
+2025-03-31T18:04:37.352Z [INFO]: Crear un nuevo report 
+2025-03-31T18:04:37.357Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:22:05.048Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:22:05.051Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:22:05.051Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:22:05.344Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:22:05.346Z [INFO]: Verificar los transportadores free
+2025-03-31T18:22:05.347Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:22:05.530Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:22:05.530Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:22:05.531Z [INFO]: Consultar BD las rutas
+2025-03-31T18:22:49.318Z [INFO]: Crear un nuevo report 
+2025-03-31T18:22:49.319Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:22:49.321Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:22:49.322Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:22:49.323Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:22:49.931Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:22:49.932Z [INFO]: Verificar los transportadores free
+2025-03-31T18:22:49.932Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:22:50.235Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:22:50.236Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:22:50.236Z [INFO]: Consultar BD las rutas
+2025-03-31T18:29:50.255Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:29:50.258Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:29:50.260Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:29:50.263Z [INFO]: Crear un nuevo report 
+2025-03-31T18:29:50.264Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:29:50.434Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:29:50.435Z [INFO]: Verificar los transportadores free
+2025-03-31T18:29:50.435Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:29:50.652Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:29:50.653Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:29:50.653Z [INFO]: Consultar BD las rutas
+2025-03-31T18:31:24.582Z [INFO]: Crear un nuevo report 
+2025-03-31T18:31:24.585Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:39:36.307Z [INFO]: Crear un nuevo report 
+2025-03-31T18:39:36.308Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:39:36.311Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:39:36.312Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:39:36.312Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:39:36.569Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:39:36.570Z [INFO]: Verificar los transportadores free
+2025-03-31T18:39:36.570Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:39:36.774Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:39:36.775Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:39:36.780Z [INFO]: Consultar BD las rutas
+2025-03-31T18:42:31.510Z [INFO]: Crear un nuevo report 
+2025-03-31T18:42:31.511Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:42:31.513Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:42:31.513Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:42:31.514Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:42:31.943Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:42:31.944Z [INFO]: Verificar los transportadores free
+2025-03-31T18:42:31.945Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:42:32.065Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:42:32.066Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:42:32.067Z [INFO]: Consultar BD las rutas
+2025-03-31T18:43:55.313Z [INFO]: Crear un nuevo report 
+2025-03-31T18:43:55.313Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:43:55.315Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:43:55.315Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:43:55.316Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:43:55.697Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:43:55.698Z [INFO]: Verificar los transportadores free
+2025-03-31T18:43:55.699Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:43:55.968Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:43:55.970Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:43:55.970Z [INFO]: Consultar BD las rutas
+2025-03-31T18:44:48.594Z [INFO]: Crear un nuevo report 
+2025-03-31T18:44:48.597Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:44:48.600Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:44:48.601Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:44:48.602Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:44:49.033Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:44:49.035Z [INFO]: Verificar los transportadores free
+2025-03-31T18:44:49.036Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:44:49.259Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:44:49.260Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:44:49.260Z [INFO]: Consultar BD las rutas
+2025-03-31T18:44:50.380Z [INFO]: Crear un nuevo report 
+2025-03-31T18:44:50.380Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:44:50.480Z [ERROR]: No es posible consultar la información
+2025-03-31T18:44:59.716Z [INFO]: Crear un nuevo report 
+2025-03-31T18:44:59.717Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:44:59.719Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:44:59.719Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:44:59.719Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:44:59.832Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:44:59.833Z [INFO]: Verificar los transportadores free
+2025-03-31T18:44:59.834Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:45:00.047Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:45:00.047Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:45:00.047Z [INFO]: Consultar BD las rutas
+2025-03-31T18:45:13.183Z [INFO]: Crear un nuevo report 
+2025-03-31T18:45:13.183Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:45:13.284Z [ERROR]: No es posible consultar la información
+2025-03-31T18:45:46.125Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:45:46.127Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:45:46.127Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:45:46.129Z [INFO]: Crear un nuevo report 
+2025-03-31T18:45:46.130Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:45:46.240Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:45:46.241Z [INFO]: Verificar los transportadores free
+2025-03-31T18:45:46.241Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:45:46.524Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:45:46.525Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:45:46.525Z [INFO]: Consultar BD las rutas
+2025-03-31T18:46:07.708Z [INFO]: Crear un nuevo report 
+2025-03-31T18:46:07.708Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:46:07.805Z [ERROR]: No es posible consultar la información
+2025-03-31T18:49:49.768Z [INFO]: Crear un nuevo report 
+2025-03-31T18:49:49.769Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:49:49.771Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:49:49.772Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:49:49.772Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:49:50.145Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:49:50.146Z [INFO]: Verificar los transportadores free
+2025-03-31T18:49:50.147Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:49:50.379Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:49:50.379Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:49:50.380Z [INFO]: Consultar BD las rutas
+2025-03-31T18:50:06.481Z [INFO]: Crear un nuevo report 
+2025-03-31T18:50:06.482Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:50:06.584Z [ERROR]: No es posible consultar la información
+2025-03-31T18:50:32.408Z [INFO]: Crear un nuevo report 
+2025-03-31T18:50:32.409Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:50:32.411Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:50:32.412Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:50:32.412Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:50:32.729Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:50:32.729Z [INFO]: Verificar los transportadores free
+2025-03-31T18:50:32.730Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:50:32.940Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:50:32.941Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:50:32.942Z [INFO]: Consultar BD las rutas
+2025-03-31T18:54:56.327Z [INFO]: Crear un nuevo report 
+2025-03-31T18:54:56.327Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:54:56.329Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:54:56.329Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:54:56.329Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:54:56.733Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:54:56.733Z [INFO]: Verificar los transportadores free
+2025-03-31T18:54:56.734Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:54:57.019Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:54:57.019Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:54:57.020Z [INFO]: Consultar BD las rutas
+2025-03-31T18:55:08.414Z [INFO]: Crear un nuevo report 
+2025-03-31T18:55:08.414Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:55:08.416Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:55:08.417Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:55:08.417Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:55:08.542Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:55:08.543Z [INFO]: Verificar los transportadores free
+2025-03-31T18:55:08.544Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:55:08.744Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:55:08.746Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:55:08.746Z [INFO]: Consultar BD las rutas
+2025-03-31T18:57:53.924Z [INFO]: Crear un nuevo report 
+2025-03-31T18:57:53.924Z [INFO]: Consultar BD la promedio transportista
+2025-03-31T18:57:53.926Z [INFO]: Consultar todas la ordenes
+2025-03-31T18:57:53.927Z [INFO]: Consultar todas la ordenes Service
+2025-03-31T18:57:53.927Z [INFO]: Consultar BD todas la ordenes
+2025-03-31T18:57:54.303Z [INFO]: Consultar todos los transportadores libres
+2025-03-31T18:57:54.305Z [INFO]: Verificar los transportadores free
+2025-03-31T18:57:54.306Z [INFO]: consulta bd transportistas disponibles con capacidad suficiente
+2025-03-31T18:57:54.463Z [INFO]: Consultar todas la rutas controller
+2025-03-31T18:57:54.463Z [INFO]: Consultar todas la rutas Service
+2025-03-31T18:57:54.463Z [INFO]: Consultar BD las rutas
+2025-03-31T18:58:27.895Z [INFO]: Crear un nuevo report 
+2025-03-31T18:58:27.896Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T18:58:27.997Z [ERROR]: No es posible consultar la información
+2025-03-31T19:02:46.544Z [INFO]: Crear un nuevo report 
+2025-03-31T19:02:46.544Z [INFO]: Consultar BD envíos completados en un período
+2025-03-31T19:03:02.704Z [INFO]: Crear un nuevo report 
+2025-03-31T19:03:02.707Z [INFO]: Consultar BD envíos completados en un período 2025-03-25 - 2025-03-29
+2025-03-31T19:03:40.657Z [INFO]: Crear un nuevo report 
+2025-03-31T19:03:40.657Z [INFO]: Consultar BD envíos completados en un período undefined - 2025-03-31
+2025-03-31T19:03:40.758Z [ERROR]: No es posible consultar la información
+2025-03-31T19:04:55.846Z [INFO]: Crear un nuevo report 
+2025-03-31T19:04:55.847Z [INFO]: Consultar BD envíos completados en un período 2025-03-25 - 2025-03-31

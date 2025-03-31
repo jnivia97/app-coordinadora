@@ -1,0 +1,135 @@
+2025-03-29T04:03:25.889Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:06:19.225Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:08:10.129Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:09:46.145Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:10:32.410Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:17:53.738Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:19:10.400Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:21:24.088Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:37:46.230Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:39:50.619Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:40:06.330Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:40:51.211Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:45:33.806Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:46:16.274Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:47:27.566Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:49:00.101Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:51:01.908Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:54:57.275Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:57:44.273Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:58:10.170Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:58:40.464Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T04:59:45.331Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:00:18.256Z [ERROR]: Contraseña incorrecta
+2025-03-29T05:05:52.271Z [ERROR]: No hay Info BD 0
+2025-03-29T05:05:52.273Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:07:21.745Z [ERROR]: No hay Info BD 0
+2025-03-29T05:07:21.747Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:08:08.369Z [ERROR]: No hay Info BD 0
+2025-03-29T05:08:08.371Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:10:32.076Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:10:32.078Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:10:32.079Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:13:50.568Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:13:50.570Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:13:50.572Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:16:23.354Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:16:23.355Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:16:23.357Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T05:18:41.021Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T05:18:41.022Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T05:18:41.023Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T07:39:51.595Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:39:51.596Z [ERROR]: No es posible crear la orden
+2025-03-29T07:39:51.597Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:39:51.597Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:42:52.650Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:42:52.653Z [ERROR]: No es posible crear la orden
+2025-03-29T07:42:52.656Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:42:52.658Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:45:00.005Z [ERROR]: [ERROR]: Column 'dimensiones' cannot be null
+2025-03-29T07:45:00.008Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:46:05.487Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:46:05.489Z [ERROR]: No es posible crear la orden
+2025-03-29T07:46:05.490Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:46:05.491Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:50:06.561Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:50:06.562Z [ERROR]: No es posible crear la orden
+2025-03-29T07:50:06.566Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:50:06.567Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T07:53:59.019Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T07:53:59.021Z [ERROR]: No es posible crear la orden
+2025-03-29T07:53:59.022Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T07:53:59.024Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:02:04.170Z [ERROR]: No se pudo almacenar BD undefined
+2025-03-29T08:02:04.172Z [ERROR]: No es posible crear la orden
+2025-03-29T08:02:04.173Z [ERROR]: [ERROR]: Error al crear la orden
+2025-03-29T08:02:04.174Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:15:33.416Z [ERROR]: Información de la orden erronea
+2025-03-29T08:15:33.417Z [ERROR]: [ERROR]: dimensiones is not defined
+2025-03-29T08:15:33.418Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T08:17:15.938Z [ERROR]: [ERROR]: jwtSecret is not defined
+2025-03-29T08:17:15.939Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-29T17:36:34.790Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-29T17:36:34.792Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-29T17:36:34.793Z [ERROR]: Error de respuesta UserController-login
+2025-03-29T17:41:53.888Z [ERROR]: [ERROR]: deliveryRepository is not defined
+2025-03-29T17:43:36.546Z [ERROR]: [ERROR]: deliveryRepository is not defined
+2025-03-29T17:44:32.110Z [ERROR]: [ERROR]: jwt is not defined
+2025-03-29T17:46:23.965Z [ERROR]: [ERROR]: res is not defined
+2025-03-29T17:48:07.384Z [ERROR]: [ERROR]: deliveryRepository is not defined
+2025-03-30T21:55:06.889Z [ERROR]: [ERROR]: User is not defined
+2025-03-30T21:55:40.394Z [ERROR]: [ERROR]: allOrder is not defined
+2025-03-31T00:23:31.993Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:23:31.995Z [ERROR]: Error de respuesta
+2025-03-31T00:25:17.223Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:25:17.224Z [ERROR]: Error de respuesta
+2025-03-31T00:40:06.048Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:40:06.051Z [ERROR]: Error de respuesta
+2025-03-31T00:41:32.596Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:41:32.601Z [ERROR]: Error de respuesta
+2025-03-31T00:43:41.819Z [ERROR]: [ERROR]: Expected "payload" to be a plain object.
+2025-03-31T00:43:41.821Z [ERROR]: Error de respuesta
+2025-03-31T00:44:24.259Z [ERROR]: [ERROR] service: Expected "payload" to be a plain object.
+2025-03-31T00:44:24.260Z [ERROR]: Error de respuesta
+2025-03-31T01:52:17.450Z [ERROR]: No es posible consultar la información
+2025-03-31T01:53:25.428Z [ERROR]: No es posible consultar la información
+2025-03-31T01:55:30.241Z [ERROR]: No es posible consultar la información
+2025-03-31T01:56:22.681Z [ERROR]: No es posible consultar la información
+2025-03-31T01:57:07.422Z [ERROR]: No es posible consultar la información
+2025-03-31T01:57:59.227Z [ERROR]: No es posible consultar la información
+2025-03-31T01:58:52.662Z [ERROR]: No es posible consultar la información
+2025-03-31T02:00:17.424Z [ERROR]: No es posible consultar la información
+2025-03-31T03:50:19.713Z [ERROR]: Información del reporte erronea
+2025-03-31T03:50:19.714Z [ERROR]: [ERROR] service: reporte is not a constructor
+2025-03-31T03:50:19.715Z [ERROR]: Error de respuesta
+2025-03-31T05:37:32.882Z [ERROR]: [ERROR]: user is not defined
+2025-03-31T05:38:02.148Z [ERROR]: [ERROR]: id_usuario is not defined
+2025-03-31T05:38:27.641Z [ERROR]: No es posible consultar la información
+2025-03-31T05:43:22.778Z [ERROR]: No es posible consultar la información
+2025-03-31T05:44:17.952Z [ERROR]: No es posible consultar la información
+2025-03-31T14:59:07.367Z [ERROR]: Contraseña incorrecta para el usuario: juan@example.com
+2025-03-31T14:59:07.369Z [ERROR]: [ERROR]: Contraseña incorrecta
+2025-03-31T14:59:07.370Z [ERROR]: Error de respuesta UserController-login
+2025-03-31T15:14:53.174Z [ERROR]: No es posible consultar la información
+2025-03-31T15:31:40.691Z [ERROR]: Información de la orden erronea
+2025-03-31T15:31:40.693Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:31:40.693Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:37:28.853Z [ERROR]: Información de la orden erronea
+2025-03-31T15:37:28.857Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:37:28.858Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:42:23.880Z [ERROR]: Información de la orden erronea
+2025-03-31T15:42:23.881Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:42:23.881Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:44:26.386Z [ERROR]: Información de la orden erronea
+2025-03-31T15:44:26.386Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:44:26.387Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T15:45:07.496Z [ERROR]: Información de la orden erronea
+2025-03-31T15:45:07.498Z [ERROR]: [ERROR]: delivery.peso.toFixed is not a function
+2025-03-31T15:45:07.499Z [ERROR]: Error de respuesta DeliveryController-createDelivery
+2025-03-31T18:44:50.480Z [ERROR]: No es posible consultar la información
+2025-03-31T18:45:13.284Z [ERROR]: No es posible consultar la información
+2025-03-31T18:46:07.805Z [ERROR]: No es posible consultar la información
+2025-03-31T18:50:06.584Z [ERROR]: No es posible consultar la información
+2025-03-31T18:58:27.997Z [ERROR]: No es posible consultar la información
+2025-03-31T19:03:40.758Z [ERROR]: No es posible consultar la información
