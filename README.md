@@ -62,15 +62,29 @@ Este proyecto es una solución completa (frontend y backend) para gestionar el e
 ✅ Tabla de reportes y gráficos interactivos.  
 
 ---
-### 📊 **Base de Datos**  
+## 📊 **Base de Datos**  
 
 
 ![image](https://github.com/user-attachments/assets/82cedc5c-f435-4ea7-888c-afae48f3f2de)
+
+## 📊 **Elevator pitch**  
+
+https://youtu.be/S42bYmTMGDU
 
 
 ## 🛠 **Instrucciones para Instalación y Ejecución**  
 
 ### 📌 **Clonar el Repositorio**  
+
+## Usuarios de Pruebas
+
+Cliente
+email: juan@example.com
+password: hashed_password_1
+
+Administrador
+email: carlos@example.com
+password: hashed_password_3
 
 ```bash
 Ejecucion de los proyectos 
